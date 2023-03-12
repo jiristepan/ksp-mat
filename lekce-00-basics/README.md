@@ -39,5 +39,13 @@ Práce je celkem jednoduchá:
 Postupně se naučimě další triky. Pracovat s historií a vytvářet více verzí kódu.
 
 ## Input output
+Python standarne pouziva funkci input(). Ta cte z **stdin**, což je normálně klávesnice.
+
+Pokud si text uložíme do souboru **input.txt** tak jej můžeme poslat na stdin pomocí příkazu
+
+**Get-Content**
+```commandline
+Get-Content .\input.txt | python .\readinput_stdin.py > out.txt
+```
 
 ## Python basics
