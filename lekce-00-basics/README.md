@@ -6,9 +6,10 @@ My budeme používat repository https://github.com/jiristepan/ksp-mat
 
 ### Inicializace
 https://github.com/signup
-
+(nebo když máš, tak nemusíš)
 - jméno doporučuji nějaké rozumné, občas pošleš k náhledu
 - jméno mi pak pošli přidám jej do repository jako editora
+
 
 ### Nastavení v Pycharm
 Kód musíš do pycharmu z GitHubu stáhnout (**clone**).
